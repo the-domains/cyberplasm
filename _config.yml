@@ -1,0 +1,28 @@
+name: cyberplasm
+favicon: null
+layout_spectrum: 0.21453422494232655
+typography_spectrum: 0.12103245430625975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0037563014775514603
+  lightness: 0.7118258164264262
+  saturation: 0.16088068601675332
+  rhythmicContrast: 0.7434842195361853
+purpose: []
